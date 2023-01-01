@@ -1,10 +1,1 @@
 Habia una vez una vaca
-Habia una vez un chancho
-Habia una vez una cabra
-<<<<<<< HEAD
-
-=======
-Habia una vez un pato
-Habia una vez un conejo
-Volvió el granjero
->>>>>>> ddc30ffd6c7ea0562f8ec311fd21d0be93ba9401
